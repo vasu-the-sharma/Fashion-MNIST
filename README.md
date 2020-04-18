@@ -5,6 +5,7 @@ Fashion-MNIST is a dataset consisting of 70,000 images (60k training and 10k tes
 
 The dataset was designed as a plug-and-play replacement for the traditional MNIST handwritten digit recognizing dataset. Both datasets use the same scale and type of image files, along with the same number of classification labels (10), for usage with machine learning models.
 
+I split the dataset into Test and Train datasets. 
 Dataset available at: https://drive.google.com/file/d/1FNoZDjgpM-phFTWwcUDDTCSGGAUxgl3b/view?usp=sharing
 
 Label	Description:
